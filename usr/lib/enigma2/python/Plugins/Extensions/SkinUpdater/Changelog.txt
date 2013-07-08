@@ -1,0 +1,15 @@
+Changelog by Nobody28
+
+www.gigablue-support.com (openMips)
+www.opena.tv
+
+
+0.1 (24.05.2013):
+- First Release
+
+0.1r1 (26.05.2013):
+- add same Piconsstyle as PluginUpdater
+- small fixes
+
+0.1r2 (26.05.2013):
+- small fixes
